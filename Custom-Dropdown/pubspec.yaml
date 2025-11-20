@@ -1,4 +1,4 @@
-name: health_crm
+name: dropdown
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -34,24 +34,24 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  shared_preferences: ^2.5.3
-  get: ^4.7.2
-  fluttertoast: ^9.0.0
-  modal_bottom_sheet: ^3.0.0
-  hexcolor: ^3.0.2
-  http: ^1.6.0
-  image_picker: ^1.2.1
-  cached_network_image: ^3.4.1
-  google_fonts: ^6.3.2
-  lottie: ^3.3.2
-  get_storage: ^2.1.1
-  dio: ^5.9.0
-  shimmer: ^3.0.0
-  custom_searchable_dropdown: ^2.1.1
-  dependencies:
-  custom_dropdown:
-    git:
-      url: https://github.com/MohdFaheem85/Custom-Dropdown/blob/main/Custom-Dropdown.git
+  # shared_preferences: ^2.5.3
+  # get: ^4.7.2
+  # fluttertoast: ^9.0.0
+  # modal_bottom_sheet: ^3.0.0
+  # hexcolor: ^3.0.2
+  # http: ^1.6.0
+  # image_picker: ^1.2.1
+  # cached_network_image: ^3.4.1
+  # google_fonts: ^6.3.2
+  # lottie: ^3.3.2
+  # get_storage: ^2.1.1
+  # dio: ^5.9.0
+  # shimmer: ^3.0.0
+  # custom_searchable_dropdown: ^2.1.1
+  # dependencies:
+  # custom_dropdown:
+  #   git:
+  #     url: https://github.com/MohdFaheem85/Custom-Dropdown/blob/main/Custom-Dropdown.git
 
 dev_dependencies:
   flutter_test:
@@ -105,3 +105,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
